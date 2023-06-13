@@ -1,5 +1,7 @@
 https://www.youtube.com/watch?v=dFgzHOX84xQ&t=1989s
 
+The final code is deployed here : https://learn-tailwind-css-theta.vercel.app/
+
 1. npm init -y
 2. npm install next@12 react react-dom
 
